@@ -4,7 +4,7 @@ The UNIS Sales Management System is a relational database project built using Po
 
 
 
-## 📌 Key Features
+##  Key Features
 
 - **Inventory and Product Management**:  product details, and  information.
 - **Customer and Order Tracking**: Manage customer profiles, sales transactions, and order history.
