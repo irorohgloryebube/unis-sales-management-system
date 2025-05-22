@@ -1,6 +1,6 @@
 # UNIS Sales Management System
 
-The UNIS Sales Management System is a relational database project built using PostgreSQL. It simulates the operations of a retail store by managing key entities such as products, customers, orders, employees, and inventory. The system is fully normalized (up to 3NF) and includes SQL queries for reporting and insights, along with Power BI dashboards for data visualization.
+The UNIS Sales Management System is a relational database project built using PostgreSQL. It simulates the operations of a retail store by managing key entities such as products, customers, orders, and employees. The system is fully normalized (up to 3NF) and includes SQL queries for reporting and insights, along with Power BI dashboards for data visualization.
 
 
 
