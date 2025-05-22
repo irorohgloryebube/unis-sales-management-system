@@ -24,6 +24,11 @@ The UNIS Sales Management System is a relational database project built using Po
 | quickdb      | Entity Relationship Diagram (ERD) design |
 |dbeaver       | Querying the database                    |
 
+## Entity Relationship Diagram
+
+![ER Diagram](ERdiagram.png)
+
+
 ## 📁 Project Structure
 
 unis-sales-management-system/
