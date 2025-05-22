@@ -28,6 +28,9 @@ The UNIS Sales Management System is a relational database project built using Po
 
 ![ER Diagram](ERdiagram.png)
 
+## Dashbord
+![Dashbord](Dashboard.png)
+
 
 ## 📁 Project Structure
 
