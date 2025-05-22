@@ -9,7 +9,7 @@ The UNIS Sales Management System is a relational database project built using Po
 - **Inventory and Product Management**:  product details, and  information.
 - **Customer and Order Tracking**: Manage customer profiles, sales transactions, and order history.
 - **Role-Based Access Control**: Utilize views and permissions to control access for different user roles.
-- **Advanced SQL Queries**: Analyze sales performance, customer behavior, top-selling products, and revenue trends.
+- **Advanced SQL Queries**: Analyze sales performance, customer behavior, top-selling products, and order trends.
 - **Power BI Dashboards**: Visualize KPIs and insights with interactive charts and reports.
 
 
@@ -27,7 +27,7 @@ The UNIS Sales Management System is a relational database project built using Po
 ## Entity Relationship Diagram
 ![ER-Diagram](ER-Diagram.png)
 
-## Dashbord
+## Dashboard
 ![Dashboard](Dashboard.png)
 
 
